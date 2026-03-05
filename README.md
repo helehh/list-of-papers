@@ -1,9 +1,5 @@
 # Papers
 
-1. **Pairwise or Pointwise? Evaluating Feedback Protocols for Bias in LLM-Based Evaluation** (2025)  
-   - Authors: Tripathi, Tuhina; Wadhwa, Manya; Durrett, Gregory Christopher; Niekum, Scott  
-   - DOI: https://doi.org/10.48550/ARXIV.2504.14716  
-
 2. **Item Response Theory for Efficient Human Evaluation of Chatbots** (2020)  
    - Authors: Sedoc, João; Ungar, Lyle  
    - DOI: https://doi.org/10.18653/V1/2020.EVAL4NLP-1.3  
